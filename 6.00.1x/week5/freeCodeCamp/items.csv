@@ -1,0 +1,7 @@
+name,price,quantity,broken,product
+iPhoneXR,599,7,1,phone
+iPhoneSE,649,6,1,phone
+iPadPro,999,5,1,tablet
+iPadAir,799,4,1,tablet
+MacbookPro,1799,3,1,laptop
+MacbookAir,1399,3,1,laptop
